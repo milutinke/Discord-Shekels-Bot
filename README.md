@@ -1,4 +1,4 @@
-# Discord-Shekels-Bot
+# Discord Shekels Bot
 
 Simple Discord economy bot.
 
